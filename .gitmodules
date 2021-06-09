@@ -1,0 +1,4 @@
+[submodule "openssh-portable"]
+	path = openssh-portable
+	url = https://github.com/openssh/openssh-portable/
+	branch = V_7_5
